@@ -25,7 +25,7 @@ https://youtu.be/o4Nm8HfsZMw
 
 The Ai sucessfully detects my voice/questions and optional text inputs on both Civic car screen and PC Desktop, but fails to move her mouth on the Civic car screen.
 
-She moves her mouth according to IBM Assistant's lipsync tech on [Desktop LQ Unity version]() successfully.
+She moves her mouth according to IBM Assistant's lipsync tech on [Desktop LQ Unity version](https://github.com/g0dEngineer/xSynth/#replicate-xsynth-outside-of-the-2017-civic-10th-gen-and-on-your-desktop) successfully.
 
 This Civic lack of mouth movement could be either due to the Civic's low 512 mb ram limit or lack of compatibility with the Civic for IBM Ai Assistant.
 
