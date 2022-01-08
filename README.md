@@ -1,4 +1,4 @@
-# xSynth
+# xSynth by God Bennett @god_bennett
 
 # Youtube Demo:
 https://youtu.be/o4Nm8HfsZMw
