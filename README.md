@@ -50,15 +50,21 @@ Download desktop LQ android build (Warning: 342 mb rar file extracts to 1.08 gb)
 
 # Powered by IBM Cloud Ai Assistant
 
+•	xSynth is powered by IBM Watson assistant. xSynth uses an IBM skill file, made by God Bennett concerning Honda Civics and casual topics.
+
+•[The skill/technique file](https://github.com/g0dEngineer/xSynth/blob/main/data/xSynth_CivicTenthGeneration_Technique_byGodBennett.json) consists of samples of the types of questions/statements that the xSynth ai is expected to be able to process. IBM Watson then uses the aforesaid samples to anticipate a variety of inputs related to the samples, using Machine Learning/Ai.
+
+•	xSynth [builds on Scott Hwang’s IBM Watson unity3d template for Desktop](https://github.com/snhwang/Unity-Watson-STT-Assistant-TTS), however using custom IBM skill file discussed prior. Note that you have to use [my version of this template](https://drive.google.com/file/d/1UhtSic6mNmdeBXOp4R7wT1frOGiy5-62/view?usp=sharing), because I downgraded Scott’s version in 2 ways, first to unity3d 2019.2 instead of 2019.4, to comply with my Honda Civic’s android level as well as shader/material properties again for Civic compliance.
+
 
 # xSynth currently exists in 3 forms:
 
-## HQ/HD Blender3d Desktop version, offered as a product sold opensea, as well as opensourced (Ai gpt2 output-text with eye animation):  
-https://github.com/g0dEngineer/Cryptosynth 
+## [HQ/HD Blender3d Desktop version](https://youtu.be/5eCcOtLV0uE), offered as a product sold opensea, as well as opensourced (Ai gpt2 output-text with eye animation).
 
-##	Downgraded LQ Unity Desktop version, for export to Android 4.2.2 version (Ai ibm assistant output voice with mouth and eyebrow animation):
 
-##	Downgraded LQ Android 4.2.2 version, for use in my civic 10th generation hatchback: 
+##	[Downgraded LQ Unity Desktop version](https://youtu.be/o4Nm8HfsZMw?t=213), for export to Android 4.2.2 version (Ai ibm assistant output voice with mouth and eyebrow animation).
+
+##	[Downgraded LQ Android 4.2.2 version](https://youtu.be/o4Nm8HfsZMw), for use in my civic 10th generation hatchback. 
 
 
 
