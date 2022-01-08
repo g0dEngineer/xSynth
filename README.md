@@ -1,5 +1,6 @@
 # xSynth by God Bennett @god_bennett
 
+![image](https://github.com/g0dEngineer/xSynth/blob/main/data/xSynthIcon.jpg)
 
 # World's 1st 3d automobile Ai friend and assistant for Honda Civic 10th generation 
 
