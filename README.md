@@ -45,7 +45,7 @@ a.
 
 See [my manuscript, page 4](https://github.com/g0dEngineer/xSynth/blob/main/data/xSynth_Manuscript.pdf).
 
-Download desktop LQ android build: 
+Download desktop LQ android build (Warning: 342 mb rar file extracts to 1.08 gb): https://drive.google.com/file/d/1UhtSic6mNmdeBXOp4R7wT1frOGiy5-62/view?usp=sharing
 
 
 # Powered by IBM Cloud Ai Assistant
