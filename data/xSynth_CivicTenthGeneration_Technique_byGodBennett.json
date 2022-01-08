@@ -1,0 +1,405 @@
+{
+  "intents": [
+    {
+      "intent": "honda_xgen_delearship_parts_inquiry",
+      "examples": [
+        {
+          "text": "xSynth, are parts available near to me at any dealership?"
+        },
+        {
+          "text": "xSynth, tell me who I can contact and the nearest dealership for parts."
+        },
+        {
+          "text": "xSynth, when will the next shipment of parts be ready?"
+        },
+        {
+          "text": "xSynth, where can I get Honda Parts?"
+        },
+        {
+          "text": "xSynth, who may I contact at Honda for parts?"
+        }
+      ],
+      "description": "Allows xSynth to aim to respond to consumers regarding parts inquiries for xgen"
+    },
+    {
+      "intent": "honda_xgen_greetings",
+      "examples": [
+        {
+          "text": "xSynth, good day"
+        },
+        {
+          "text": "xSynth, hello"
+        },
+        {
+          "text": "xSynth, hey"
+        },
+        {
+          "text": "xSynth, waa gwaan"
+        },
+        {
+          "text": "xSynth, what's up"
+        }
+      ],
+      "description": "Allows xSynth to aim to respond by greeting"
+    },
+    {
+      "intent": "honda_xgen_history_inquiry",
+      "examples": [
+        {
+          "text": "xSynth, anything to say about the civic 10 generation hatchback?"
+        },
+        {
+          "text": "xSynth, tell me about the civic 10 generation hatchback"
+        },
+        {
+          "text": "xSynth, what was the civic 10 generation inspired by?"
+        },
+        {
+          "text": "xSynth, where was the civic 10 generation hatchback made?"
+        },
+        {
+          "text": "xSynth, who lead the design of the civic 10 generation hatchback?"
+        }
+      ],
+      "description": "Allows xSynth to aim to respond to consumers regarding xgen history"
+    },
+    {
+      "intent": "honda_xgen_meaning_inquiry",
+      "examples": [
+        {
+          "text": "xSynth, does life have any purpose?"
+        },
+        {
+          "text": "xSynth, what is goal of life?"
+        },
+        {
+          "text": "xSynth, what is meaning of life?"
+        },
+        {
+          "text": "xSynth, what is the purpose of life?"
+        },
+        {
+          "text": "xSynth, what is use of life?"
+        }
+      ],
+      "description": "Allows xSynth to aim to respond to casual inquiry about life"
+    },
+    {
+      "intent": "honda_xgen_modifications_inquiry",
+      "examples": [
+        {
+          "text": "xSynth are bov mods okay?"
+        },
+        {
+          "text": "xSynth, can my sport touring's bov be modified?"
+        },
+        {
+          "text": "xSynth, is it okay to modify my bov on my sport touring?"
+        },
+        {
+          "text": "xSynth, will bov void my sport touring's warranty?"
+        },
+        {
+          "text": "xSynth, will bypass valve modofication void my sport touring's warranty?"
+        }
+      ],
+      "description": "Allows xSynth to aim to respond to consumers regarding desired modifications"
+    },
+    {
+      "intent": "honda_xgen_salutation",
+      "examples": [
+        {
+          "text": "xSynth, a mee dat"
+        },
+        {
+          "text": "xSynth, a mi dat"
+        },
+        {
+          "text": "xSynth, good bye"
+        },
+        {
+          "text": "xSynth, respect"
+        },
+        {
+          "text": "xSynth, take care"
+        },
+        {
+          "text": "xSynth, touch road"
+        },
+        {
+          "text": "xSynth, until a next time"
+        }
+      ],
+      "description": "Allows xSynth to aim to respond by goodbyes"
+    },
+    {
+      "intent": "honda_xgen_xsynth_inquiry",
+      "examples": [
+        {
+          "text": "xSynth, do you mind if I ask about you?"
+        },
+        {
+          "text": "xSynth, is xSynth your real name?"
+        },
+        {
+          "text": "xSynth, tell me about yourself"
+        },
+        {
+          "text": "xSynth, what can you say about yourself?"
+        },
+        {
+          "text": "xSynth, what is your full name?"
+        }
+      ],
+      "description": "Allows xSynth to aim to respond to casual inquiry about its own creation"
+    }
+  ],
+  "entities": [],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_2_1641343217120",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "xSynth_GreetTalk",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Good day"
+              },
+              {
+                "text": "Hello human"
+              },
+              {
+                "text": "Hello weirdo"
+              },
+              {
+                "text": "Good day servant"
+              },
+              {
+                "text": "Hey"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#honda_xgen_greetings",
+      "dialog_node": "node_1_1641342942937",
+      "previous_sibling": "node_3_1641342394650"
+    },
+    {
+      "type": "standard",
+      "title": "xSynth_MeaningTalk",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "According to God Bennett's hypothesis the meaning is to create human level ai"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#honda_xgen_meaning_inquiry",
+      "dialog_node": "node_2_1641343150666",
+      "previous_sibling": "node_1_1641342942937"
+    },
+    {
+      "type": "standard",
+      "title": "xSynth_xSynthTalk",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I was born as an Ai in IBM's cloud infrastructure, and my real name is simply xSynth"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#honda_xgen_xsynth_inquiry",
+      "dialog_node": "node_2_1641343217120",
+      "previous_sibling": "node_2_1641343150666"
+    },
+    {
+      "type": "standard",
+      "title": "xSynth_SaluteTalk",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "don't bother me again"
+              },
+              {
+                "text": "good bye, but don't bother me anymore"
+              },
+              {
+                "text": "take care"
+              },
+              {
+                "text": "don't let me see you again"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#honda_xgen_salutation",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_3_1641342394650",
+      "previous_sibling": "node_3_1641342555076"
+    },
+    {
+      "type": "standard",
+      "title": "xSynth_DealershipTalk",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Parts are available at your Honda Delearship, 1 hour away"
+              },
+              {
+                "text": "Call Mindy at your Dealership at 876-404-4044"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#honda_xgen_delearship_parts_inquiry",
+      "dialog_node": "node_3_1641342555076",
+      "previous_sibling": "node_9_1641342778754"
+    },
+    {
+      "type": "standard",
+      "title": "xSynth_xGenHistoryTalk",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The civic hatchback 10 generation was inspired by the lamborghini aventador according to Soota-mori."
+              },
+              {
+                "text": "The civic hatchback 10 generation was lamborghini inspired"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#honda_xgen_history_inquiry",
+      "dialog_node": "node_5_1641342650938",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "xSynth_xGenModificationTalk",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bov is dangerous for your sport civic engine, and will void your warranty."
+              },
+              {
+                "text": "Your sport civic warranty will be voided by custom bovs."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#honda_xgen_modifications_inquiry",
+      "dialog_node": "node_9_1641342778754",
+      "previous_sibling": "node_5_1641342650938"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "xSynth_CivicTenthGeneration_Technique",
+  "language": "en",
+  "description": "World 1st 3d Ai car bot, xSynth by God Bennett that can discuss casual life topics, + 10th gen Civic matters, including potential mods, warranty , ..."
+}
