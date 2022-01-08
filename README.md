@@ -15,6 +15,8 @@ https://youtu.be/o4Nm8HfsZMw
 * Instead of stopping to type in directions in Waze for eg, or voicing commands to car play, one could speak with my 3d being xSynth in natural language to get useful data.
 * This could occur in self driving as well. Instead of typing in things to do for eg 'cruise' control, one would instruct xSynth to do this by natural language.
 * ...
+* In particular, xSynth is as a “low energy consumption” attempt to deliver an Ai friend in car, perhaps while parked.
+* ...
 
 
 
