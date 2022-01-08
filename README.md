@@ -30,7 +30,7 @@ This Civic lack of mouth movement could be either due to the Civic's low 512 mb 
 
 
 
-# Download and run xSynth run instructions in your Honda Civic 10th gen
+# Download and run xSynth in your Honda Civic 10th gen
  
 
 1.	Ensure you have Android version 4 eg, 4.2.2 in your Honda Civic/Car display console.
