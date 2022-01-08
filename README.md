@@ -43,7 +43,7 @@ a.
 
 # Replicate xSynth outside of the 2017 Civic 10th gen, and on your Desktop
 
-See my manuscript, page 4.
+See [my manuscript, page 4](https://github.com/g0dEngineer/xSynth/blob/main/data/xSynth_Manuscript.pdf).
 
 Download desktop LQ android build: 
 
