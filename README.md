@@ -20,7 +20,15 @@ This Civic lack of mouth movement could be either due to the Civic's low 512 mb 
 3.	Root/hack your Honda Civic display, using Honda Hack. (25 usd) Allows installation of custom apps, like my xSynth app, or File Manager, or Youtube to your Civic, and other cool things like putting your reverse camera on while moving forward. (This can be done directly from your car, from the “search” icon in app list, by visiting autohack.org. You can buy the 25 usd key on desktop first, on the same site, then use the site in car to root your car’s display)
 4.	In your car/Civic, after you rooted it, install Play Store, and login into your google account, or create one if desired.
 5.	In your car/Civic, after you rooted it, install a File Manager, (I suggest File Manager+). (This should be fine, as I find that my civic had about 2gb memory free internal, and more than 6 gb on sd card. Sadly ram is low around 512 mb, but my ai runs quickly regardless)
-6.	Download my xSynth app (apk file) and put it on a flash drive.
+6.	On your desktop or laptop, download my [xSynth app](https://drive.google.com/file/d/1sECZtaJS7osv5DrjIShSb7RMxy02Gc_P/view?usp=sharing) (apk file ~45mb) and put it on a flash drive.
+7.	On your desktop or laptop, put the flash drive into the usb port. (I used the one under the cup holder in center)
+8.	In your car/Civic, load your File Manager app, and navigate to “USB” icon, and find my app called xSynth, with the icon below:
+a.	 
+9.	Next, in your car/Civic tap the xSynth icon, and install, and ignore hardware limit warning with continue. Ignore Google Play store’s limits for unknown apps as well, similar to Honda Hack. Wait for install (about 40 seconds)
+10.	Next, in your car/Civic, in File Manager, navigate to “Apps” icon, and scroll down if needed to find my installed xSynth app (It looks the same like the icon from (8)). Tap/Hold, and open to run the app. 
+11.	Talk freely to xSynth about BOV mods inquiries, parts inquiries, honda history, meaning of life, or about xSynth itself. Say hello or good bye or other similar expressions. 
+12.	An update may fix mouth animation, and make the app useful by integration actual honda location data like dealership data.
+
 
 
 
