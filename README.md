@@ -10,6 +10,12 @@
 https://youtu.be/o4Nm8HfsZMw
 
 
+# Goals
+* A friendly conversational ai agent doubling as an assistant and interactive automobile manager, embodied in [cryptosynth aeon](https://github.com/g0dEngineer/Cryptosynth) being form.
+* Instead of stopping to type in directions in Waze for eg, or voicing commands to car play, one could speak with my 3d being xSynth in natural language to get useful data.
+* This could occur in self driving as well. Instead of typing in things to do for eg 'cruise' control, one would instruct xSynth to do this by natural language.
+* ...
+
 
 
 
