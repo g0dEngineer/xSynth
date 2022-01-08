@@ -35,7 +35,9 @@ This Civic lack of mouth movement could be either due to the Civic's low 512 mb 
 6.	On your desktop or laptop, download my [xSynth app](https://drive.google.com/file/d/1sECZtaJS7osv5DrjIShSb7RMxy02Gc_P/view?usp=sharing) (apk file ~45mb) and put it on a flash drive.
 7.	On your desktop or laptop, put the flash drive into the usb port. (I used the one under the cup holder in center)
 8.	In your car/Civic, load your File Manager app, and navigate to “USB” icon, and find my app called xSynth, with the icon below:
-a.	 
+
+a. ![image](https://github.com/g0dEngineer/xSynth/blob/main/data/xSynthIcon.jpg)	 
+
 9.	Next, in your car/Civic tap the xSynth icon, and install, and ignore hardware limit warning with continue. Ignore Google Play store’s limits for unknown apps as well, similar to Honda Hack. Wait for install (about 40 seconds)
 10.	Next, in your car/Civic, in File Manager, navigate to “Apps” icon, and scroll down if needed to find my installed xSynth app (It looks the same like the icon from (8)). Tap/Hold, and open to run the app. 
 11.	Talk freely to xSynth (by Voice or by text) about BOV mod safety inquiries, parts inquiries, honda history, meaning of life, or about xSynth itself. Say hello or good bye or other similar expressions. xSynth uses Ai to detect your voice.
