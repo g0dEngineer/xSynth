@@ -14,7 +14,10 @@ This Civic lack of mouth movement could be either due to the Civic's low 512 mb 
 
 # Replicating xSynth outside of the 2017 Civic 10th gen, and on your Desktop
 
+See my manuscript.
 
+
+# Powered by IBM Cloud Ai Assistant
 
 
 # xSynth currently exists in 3 forms:
