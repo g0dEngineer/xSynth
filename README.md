@@ -7,7 +7,7 @@
 ![image](https://github.com/g0dEngineer/xSynth/blob/main/data/xSynth_ProjectRun_Civic.jpg)
 
 # Youtube Demo:
-https://youtu.be/o4Nm8HfsZMw
+https://youtu.be/pxgLJSd3_-s
 
 
 # Goals (Long term)
@@ -81,7 +81,7 @@ Download desktop LQ android build (Warning: 342 mb rar file extracts to 1.08 gb)
 ##	[Downgraded LQ Android 4.2.2 version](https://youtu.be/o4Nm8HfsZMw), for use in my civic 10th generation hatchback. 
 
 
-# Related paper by God Bennett to xSynth's answer [at 2:15 in video](https://youtu.be/o4Nm8HfsZMw?t=135):
+# Related paper by God Bennett to xSynth's answer [at 2:15 in video](https://youtu.be/pxgLJSd3_-s?t=115):
 
 https://www.researchgate.net/publication/319235750_Why_is_the_purpose_of_human_life_to_create_Artificial_General_Intelligence
 
