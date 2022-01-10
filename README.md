@@ -51,6 +51,7 @@ a. ![image](https://github.com/g0dEngineer/xSynth/blob/main/data/xSynthIcon.jpg)
 11.	Next, in your car/Civic, in File Manager, navigate to “Apps” icon, and scroll down if needed to find my installed xSynth app (It looks the same like the icon from (8)). Tap/Hold, and open to run the app. 
 12.	Talk freely to xSynth (by Voice or by text) about BOV mod safety inquiries, parts inquiries, honda history, meaning of life, or about xSynth itself. Say hello or good bye or other similar expressions. xSynth uses Ai to detect your voice.
 13.	An update may fix mouth animation, and make the app useful by integration actual honda location data like dealership data.
+14. BE SURE TO CLOSE XSYNTH WHEN NOT USING IT, IF YOU HAD STARTED IT. (File Manager > Apps > xSynth > Force Stop or Honda Hack > Uninstall apps > xSynth > Force Stop (not uninstall). Although it has about 8 gb of free space, the civic xgen has only roughly 512 mb of ram.
 
 
 
