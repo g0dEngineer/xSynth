@@ -68,7 +68,7 @@ Download desktop LQ android build (Warning: 342 mb rar file extracts to 1.08 gb)
 
 •[The skill/technique file](https://github.com/g0dEngineer/xSynth/blob/main/data/xSynth_CivicTenthGeneration_Technique_byGodBennett.json) consists of samples of the types of questions/statements that the xSynth ai is expected to be able to process. IBM Watson then uses the aforesaid samples to anticipate a variety of inputs related to the samples, using Machine Learning/Ai.
 
-•	xSynth [builds on Scott Hwang’s IBM Watson unity3d template for Desktop](https://github.com/snhwang/Unity-Watson-STT-Assistant-TTS), however using custom IBM skill file discussed prior. Note that you have to use [my version of this template](https://drive.google.com/file/d/1UhtSic6mNmdeBXOp4R7wT1frOGiy5-62/view?usp=sharing), because I downgraded Scott’s Desktop version in 2 ways, first to unity3d 2019.2 instead of 2019.4, to comply with my Honda Civic’s android level as well as shader/material properties again for Civic compliance.
+•	xSynth [builds on Scott Hwang’s IBM Watson unity3d template for Desktop](https://github.com/snhwang/Unity-Watson-STT-Assistant-TTS), however using custom IBM skill file discussed prior. Note that you have to use [my version of this template](https://drive.google.com/file/d/18hIA206_M7b15lhL66kfXyyWpi5uitl_/view?usp=sharing), because I downgraded Scott’s Desktop version in 2 ways, first to unity3d 2019.2 instead of 2019.4, to comply with my Honda Civic’s android level as well as shader/material properties again for Civic compliance.
 
 
 # xSynth currently exists in 3 forms:
