@@ -76,9 +76,9 @@ Download desktop LQ android build (Warning: 342 mb rar file extracts to 1.08 gb)
 ## [HQ/HD Blender3d Desktop version](https://youtu.be/5eCcOtLV0uE), offered as a product sold opensea, as well as opensourced (Ai gpt2 output-text with eye animation).
 
 
-##	[Downgraded LQ Unity Desktop version](https://youtu.be/o4Nm8HfsZMw?t=213), for export to Android 4.2.2 version (Ai ibm assistant output voice with mouth and eyebrow animation).
+##	[Downgraded LQ Unity Desktop version](https://youtu.be/pxgLJSd3_-s?t=190), for export to Android 4.2.2 version (Ai ibm assistant output voice with mouth and eyebrow animation).
 
-##	[Downgraded LQ Android 4.2.2 version](https://youtu.be/o4Nm8HfsZMw), for use in my civic 10th generation hatchback. 
+##	[Downgraded LQ Android 4.2.2 version](https://youtu.be/pxgLJSd3_-s), for use in my civic 10th generation hatchback. 
 
 
 # Related paper by God Bennett to xSynth's answer [at 2:15 in video](https://youtu.be/pxgLJSd3_-s?t=115):
